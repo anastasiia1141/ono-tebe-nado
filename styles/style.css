@@ -29,16 +29,15 @@ text-underline-position: under;
 }
 
 
-.menu_element_active {
-    list-style: none;
-    text-decoration: none;
-}
 
+.header_list_link_active{
+    list-style-type: none;
+}
 
 
 .contacts {
 padding-left: 10px;
-
+font-style: normal;
 width: 241px;
 height: 98px;
 line-height: 25px;
@@ -203,7 +202,7 @@ padding-top: 179px;
 
 
 .lots_title {
-font-size: 40px;  
+font-size: 40px;
 text-transform: uppercase;
 padding-bottom: 27px;
 padding-left: 40px;
@@ -236,7 +235,7 @@ text-underline-position: under;
 
 
 .card_list {
-height: 565px;
+height: 561px;
 list-style-type: none;
 }
 
@@ -303,6 +302,9 @@ color: #fff;
 position: relative;
 }
 
+.simvol{
+    letter-spacing: 0.3em;
+}
 
 .more {
 font-size: 20px;
@@ -352,7 +354,6 @@ height: 312px;
 display: flex;
 flex-direction: column;
 gap: 24px;
-
 }
 
 .footer_content {
@@ -380,6 +381,7 @@ list-style: none;
 font-size: 18px;
 line-height: 25px;
 text-underline-position: under;
+font-style: normal;
 }
 
 
