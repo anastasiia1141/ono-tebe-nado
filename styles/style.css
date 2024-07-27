@@ -2,15 +2,16 @@
     display: grid;
     grid-template-columns: 1.5fr 1fr 1fr;
     align-items: center;
-    padding-top: 85px;
+    padding-top: 92px;
     padding-right: 24px;
-    padding-bottom: 92px;
+    padding-bottom: 80px;
     padding-left: 24px;
     background-color: #fff;
 }
 
 
 .logo_svg {
+    
     width: 148px;
     min-height: 105px;
     padding-top: 13px;
@@ -45,7 +46,7 @@
     padding-top: 15px;
     padding-left: 35px;
     font-style: normal;
-    
+
     line-height: 25px;
     font-size: 18px;
 }
@@ -365,10 +366,10 @@ main {
     padding-left: 105px;
     list-style: none;
     display: flex;
-  
+padding-bottom: 121px;
     gap: 48px;
     cursor: pointer;
-    
+
 }
 
 
