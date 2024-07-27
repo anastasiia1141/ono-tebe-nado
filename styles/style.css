@@ -366,7 +366,6 @@ main {
     display: flex;
     padding: 0px;
     gap: 48px;
-    margin-left: 45px;
     cursor: pointer;
 }
 
@@ -392,7 +391,6 @@ main {
     list-style-type: none;
 }
 
-.menu_element_active_footer{
+.menu_element_active_footer {
     text-decoration: none;
-
 }
