@@ -351,7 +351,7 @@ main {
 }
 
 .footer_content {
-    padding-bottom: 94px;
+    padding-bottom: 98px;
     display: grid;
     grid-template-columns: 1.5fr 1.5fr 2fr;
     padding-left: 15px;
@@ -373,14 +373,12 @@ main {
 
 
 .contacts_title_footer {
-
     list-style: none;
     font-size: 18px;
     line-height: 25px;
     text-underline-position: under;
     font-style: normal;
 }
-
 
 
 .menu_list_link_footer {
@@ -394,4 +392,9 @@ main {
 
 .menu_element_active_footer {
     text-decoration: none;
+}
+.contacts_title_footer {
+    text-underline-position: under;
+    list-style-type: none;
+    padding-top: 15px;
 }
