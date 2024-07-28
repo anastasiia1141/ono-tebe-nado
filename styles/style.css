@@ -20,7 +20,6 @@
 
 
 .menu_list_link {
-
     font-size: 18px;
     display: flex;
     gap: 32px;
@@ -130,7 +129,6 @@ main {
 
     padding-top: 12px;
     letter-spacing: 30px;
-
     padding-left: 287px;
 }
 
@@ -353,7 +351,7 @@ main {
 }
 
 .footer_content {
-    padding-bottom: 92px;
+    padding-bottom: 94px;
     display: grid;
     grid-template-columns: 1.5fr 1.5fr 2fr;
     padding-left: 15px;
@@ -367,7 +365,6 @@ main {
     margin-left: 143px;
     list-style: none;
     display: flex;
-
     gap: 48px;
     cursor: pointer;
 
