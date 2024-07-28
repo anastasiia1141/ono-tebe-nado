@@ -2,9 +2,9 @@
     display: grid;
     grid-template-columns: 1.5fr 1fr 1fr;
     align-items: center;
-    padding-top: 90px;
+    padding-top: 92px;
     padding-right: 24px;
-    padding-bottom: 80px;
+    padding-bottom: 96px;
     padding-left: 24px;
     background-color: #fff;
 }
@@ -311,9 +311,9 @@ main {
 
 .about {
     display: grid;
-    grid-template-columns: 1fr 2fr;
-    gap: 24px;
-    padding: 0 50px;
+    grid-template-columns: 1fr 2.5fr;
+    
+    padding-left: 50px;
 }
 
 .about_logo {
@@ -323,7 +323,7 @@ main {
     width: 240px;
     min-height: 240px;
     margin-left: 21px;
-    margin-top: 182px;
+    margin-top: 184px;
     padding-left: 50px;
 }
 
@@ -332,44 +332,43 @@ main {
 }
 
 .about_title {
+    padding-left: 5px;
     text-transform: uppercase;
     font-size: 40px;
     font-weight: 700;
     margin-left: 27px;
-    margin-top: 283px;
+    margin-top: 285px;
     margin-bottom: 100px;
 
 }
 
 .text_content_about {
-    line-height: 23px;
-    padding-left: 25px;
+    padding-left: 31px;
     font-size: 20px;
     width: 693px;
     min-height: 312px;
     display: flex;
     flex-direction: column;
-    gap: 35px;
+    gap: 20px;
+    line-height: 22px;
 }
 
 .footer_content {
+    padding-bottom: 88px;
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    margin-top: 180px;
-margin-bottom: 88px;
-margin-left: 50px;
-margin-right: 50px;
-
+    grid-template-columns: 1.5fr 1.5fr 2fr;
+    padding-left: 15px;
+    padding-top: 165px;
 
 }
 
 .social_list {
-
-    padding-top: 5px;
-    padding-left: 105px;
+width: 240px;
+    padding-top: 20px;
+    margin-left: 143px;
     list-style: none;
     display: flex;
-    padding-bottom: 121px;
+    
     gap: 48px;
     cursor: pointer;
 
@@ -385,17 +384,14 @@ margin-right: 50px;
     font-style: normal;
 }
 
-.contacts_footer {
-    padding-left: 0;
-    padding-top: 0;
-}
+
 
 .menu_list_link_footer {
+    padding-top: 20px;
+    padding-left: 90px;
     align-items: center;
     gap: 0;
     flex-direction: column;
-    padding-top: 3px;
-    padding-left: 3px;
     list-style-type: none;
 }
 
