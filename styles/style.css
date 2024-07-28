@@ -42,7 +42,7 @@
 
 
 .contacts {
-    
+
     padding-left: 35px;
     font-style: normal;
 
@@ -354,7 +354,7 @@ main {
 }
 
 .footer_content {
-    
+    padding-bottom: 88px;
     display: grid;
     grid-template-columns: 1.5fr 1.5fr 2fr;
     padding-left: 15px;
@@ -377,6 +377,7 @@ main {
 
 
 .contacts_title_footer {
+    
     list-style: none;
     font-size: 18px;
     line-height: 25px;
