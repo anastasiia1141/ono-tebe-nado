@@ -2,9 +2,9 @@
     display: grid;
     grid-template-columns: 1.5fr 1fr 1fr;
     align-items: center;
-    padding-top: 88px;
+    padding-top: 90px;
     padding-right: 24px;
-    padding-bottom: 82px;
+    padding-bottom: 85px;
     padding-left: 24px;
     background-color: #fff;
 }
@@ -377,7 +377,7 @@ main {
 
 
 .contacts_title_footer {
-    
+
     list-style: none;
     font-size: 18px;
     line-height: 25px;
