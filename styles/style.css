@@ -372,13 +372,8 @@ main {
 
 
 
-.contacts_title_footer {
-    list-style: none;
-    font-size: 18px;
-    line-height: 25px;
-    text-underline-position: under;
-    font-style: normal;
-}
+
+
 
 
 .menu_list_link_footer {
@@ -393,6 +388,7 @@ main {
 .menu_element_active_footer {
     text-decoration: none;
 }
+
 .contacts_title_footer {
     text-underline-position: under;
     list-style-type: none;
