@@ -190,7 +190,7 @@ main {
 
 .card_link_content {
     display: block;
-    height: 100%;
+    height: 104%;
     text-decoration: none;
 }
 
@@ -199,7 +199,7 @@ main {
     position: relative;
     flex-direction: column;
     justify-content: space-between;
-    gap: 25px;
+    gap: 5px;
     width: auto;
     height: 100%;
     padding: 50px 40px;
@@ -233,7 +233,7 @@ main {
 
 .more {
     font-size: 20px;
-    margin-top: 30px;
+    margin-top: 50px;
     margin-left: 40px;
     display: block;
     text-underline-position: under;
@@ -307,10 +307,6 @@ main {
     gap: 0;
     flex-direction: column;
     list-style-type: none;
-}
-
-.menu_element_active_footer {
-    text-decoration: none;
 }
 
 .contacts_title_footer {
