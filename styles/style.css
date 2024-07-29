@@ -10,7 +10,6 @@
 }
 
 .logo_svg {
-
     width: 148px;
     min-height: 105px;
     padding-left: 5px;
@@ -36,7 +35,6 @@
 }
 
 .contacts {
-
     padding-left: 35px;
     font-style: normal;
     line-height: 25px;
@@ -90,12 +88,10 @@ main {
 }
 
 .text_start {
-
     letter-spacing: 30px;
 }
 
 .text_type_start_right {
-
     letter-spacing: 60px;
 }
 
@@ -113,7 +109,6 @@ main {
 
 .text_type_left {
     padding-top: 5px;
-
     letter-spacing: 60px;
     padding-left: 585px;
 }
@@ -131,7 +126,6 @@ main {
     position: relative;
     font-size: 22px;
 }
-
 
 .cover_text {
     text-transform: uppercase;
@@ -158,7 +152,7 @@ main {
 
 .lots {
     padding: 0 25px;
-    padding-top: 179px;
+    padding-top: 175px;
 }
 
 .lots_title {
@@ -230,7 +224,7 @@ main {
     font-size: 20px;
     color: #fff;
     position: relative;
-    line-height: 120%;
+    line-height: 110%;
 }
 
 .symbol {
@@ -258,7 +252,7 @@ main {
     width: 240px;
     min-height: 240px;
     margin-left: 21px;
-    margin-top: 176px;
+    margin-top: 182px;
     padding-left: 50px;
 }
 
@@ -272,7 +266,7 @@ main {
     font-size: 40px;
     font-weight: 700;
     margin-left: 27px;
-    margin-top: 277px;
+    margin-top: 282px;
     margin-bottom: 100px;
 }
 
@@ -291,7 +285,7 @@ main {
     display: grid;
     grid-template-columns: 1.5fr 1.5fr 2fr;
     padding-left: 15px;
-    padding-top: 165px;
+    padding-top: 167px;
 
 }
 
@@ -324,21 +318,3 @@ main {
     list-style-type: none;
     padding-top: 15px;
 }
-
-/* Объёмом почти в тысячу страниц. Иногда без знаков препинания и с переходами на древнеанглийский. В ней одновременно рассказывается о 16 июня 1904 года и об истории литературы, начиная с античных времён. И это всё накладывается на эпическую поэму Гомера. Сколько бы вы поставили на «Улисса» Джеймса Джойса? */
-
-position: absolute;
-width: 254px;
-height: 360px;
-left: 399px;
-top: 229px;
-
-font-family: 'Raleway';
-font-style: normal;
-font-weight: 400;
-font-size: 20px;
-line-height: 120%;
-/* or 24px */
-
-color: #FFFFFF;
-
