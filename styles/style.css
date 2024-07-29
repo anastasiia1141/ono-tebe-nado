@@ -9,7 +9,6 @@
     background-color: #fff;
 }
 
-
 .logo_svg {
 
     width: 148px;
@@ -17,7 +16,6 @@
     padding-left: 5px;
     cursor: pointer;
 }
-
 
 .menu_list_link {
     font-size: 18px;
@@ -28,7 +26,6 @@
     text-underline-position: under;
 }
 
-
 .list_link_active {
     list-style-type: none;
     text-decoration: none;
@@ -38,16 +35,13 @@
     text-decoration: none;
 }
 
-
 .contacts {
 
     padding-left: 35px;
     font-style: normal;
-
     line-height: 25px;
     font-size: 18px;
 }
-
 
 .contacts_title {
     text-underline-position: under;
@@ -67,9 +61,6 @@ main {
     padding: 165px 50px 44px 50px;
     width: 1100px;
     min-height: 757px;
-
-
-
 }
 
 .overlay {
@@ -83,13 +74,11 @@ main {
     background-color: #000;
 }
 
-
 .title_cover {
     display: flex;
     flex-direction: column;
     color: #FFF;
     width: 1000px;
-
     letter-spacing: normal;
     position: relative;
     font-family: 'Raleway', sans-serif;
@@ -98,16 +87,11 @@ main {
     font-size: 100px;
     line-height: 115%;
     text-transform: uppercase;
-
 }
-
-
 
 .text_start {
 
     letter-spacing: 30px;
-
-
 }
 
 .text_type_start_right {
@@ -115,15 +99,10 @@ main {
     letter-spacing: 60px;
 }
 
-
-
 .text_type_center_right {
 
     letter-spacing: 60px;
 }
-
-
-
 
 .text_type_center {
 
@@ -132,15 +111,11 @@ main {
     padding-left: 287px;
 }
 
-
-
-
 .text_type_left {
     padding-top: 5px;
 
     letter-spacing: 60px;
     padding-left: 585px;
-
 }
 
 .text_type_left_end {
@@ -155,7 +130,6 @@ main {
     align-items: center;
     position: relative;
     font-size: 22px;
-
 }
 
 
@@ -167,7 +141,6 @@ main {
     word-spacing: 18px;
     margin-right: 80px;
     text-align: center;
-
 }
 
 .cover_button {
@@ -181,20 +154,12 @@ main {
     line-height: normal;
     border: 1px solid #fff;
     color: #fff;
-
-
-
-
 }
 
 .lots {
     padding: 0 25px;
     padding-top: 179px;
-
-
-
 }
-
 
 .lots_title {
     font-size: 40px;
@@ -203,14 +168,12 @@ main {
     padding-left: 40px;
 }
 
-
 .cards {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     gap: 25px;
-    font-family: 'Raleway';
+    font-family: 'Raleway', sans-serif;
 }
-
 
 .card_title {
     position: relative;
@@ -218,7 +181,7 @@ main {
     color: #fff;
     width: 253px;
     min-height: 82px;
-    font-family: 'Raleway';
+    font-family: 'Raleway', sans-serif;
     font-style: normal;
     font-weight: 700;
     font-size: 22px;
@@ -227,21 +190,15 @@ main {
     text-underline-position: under;
 }
 
-
-
 .card_list {
-    max-height: 560px;
     list-style-type: none;
 }
-
-
 
 .card_link_content {
     display: block;
     height: 100%;
     text-decoration: none;
 }
-
 
 .card_type {
     display: flex;
@@ -259,39 +216,21 @@ main {
 
 .card_film {
     background-image: url(../images/card-lot-01.jpg);
-
 }
 
 .card_book {
     background-image: url(../images/card-lot-02.jpg);
-
 }
 
 .card_picture {
     background-image: url(../images/card-lot-03.jpg);
-
 }
 
-
-
-.card_film_text {
+.card_text {
     font-size: 20px;
     color: #fff;
     position: relative;
-}
-
-.card_book_text {
-    font-size: 20px;
-    color: #fff;
-    height: 140%;
-    line-height: 24px;
-    position: relative;
-}
-
-.card_picture_text {
-    font-size: 20px;
-    color: #fff;
-    position: relative;
+    line-height: 120%;
 }
 
 .symbol {
@@ -309,7 +248,6 @@ main {
 .about {
     display: grid;
     grid-template-columns: 1fr 2.5fr;
-
     padding-left: 50px;
 }
 
@@ -320,7 +258,7 @@ main {
     width: 240px;
     min-height: 240px;
     margin-left: 21px;
-    margin-top: 184px;
+    margin-top: 176px;
     padding-left: 50px;
 }
 
@@ -334,16 +272,14 @@ main {
     font-size: 40px;
     font-weight: 700;
     margin-left: 27px;
-    margin-top: 285px;
+    margin-top: 277px;
     margin-bottom: 100px;
-
 }
 
 .text_content_about {
     padding-left: 31px;
     font-size: 20px;
     width: 693px;
-    min-height: 312px;
     display: flex;
     flex-direction: column;
     gap: 20px;
@@ -370,8 +306,6 @@ main {
 
 }
 
-
-
 .menu_list_link_footer {
     padding-top: 20px;
     padding-left: 90px;
@@ -390,3 +324,21 @@ main {
     list-style-type: none;
     padding-top: 15px;
 }
+
+/* Объёмом почти в тысячу страниц. Иногда без знаков препинания и с переходами на древнеанглийский. В ней одновременно рассказывается о 16 июня 1904 года и об истории литературы, начиная с античных времён. И это всё накладывается на эпическую поэму Гомера. Сколько бы вы поставили на «Улисса» Джеймса Джойса? */
+
+position: absolute;
+width: 254px;
+height: 360px;
+left: 399px;
+top: 229px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 120%;
+/* or 24px */
+
+color: #FFFFFF;
+
